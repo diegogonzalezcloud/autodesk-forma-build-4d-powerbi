@@ -1,7 +1,10 @@
 # Autodesk Forma Build → Power BI 4D Dashboard Template
 
 **Author:** Diego González Pascual
+https://www.linkedin.com/in/diegogonzalezpascual/
+
 **Scope:** Autodesk Forma Build + Data Exchange + Power BI
+
 **Use case:** 4D simulation + data-driven construction dashboards
 
 ---
