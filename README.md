@@ -94,6 +94,9 @@ Into a unified Power BI dashboard.
 * Generate assets from BIM elements
 * Map **ElementID → Barcode**
 
+    * on Revit models **ElementID** → is a built-in attribute
+    * on IFC models (exported from Revit) **ElementID** → is on IfcElement.Tag attribute
+
 ---
 
 ### 3. Link Assets to Schedule
